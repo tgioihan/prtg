@@ -169,14 +169,16 @@ public class CommonUtils {
 	}
 
 	public static void writetoFile(String str, Context context) {
-		String path = "/mnt/sdcard/" + "test.txt";
+		String path = "/mnt/sdcard/" + "test1.txt";
 		try {
 
 			BufferedWriter out = new BufferedWriter(new FileWriter(path));
 			out.write(str);
 			out.close();
+			Log.d("", "writetoFile "+path);
 		} catch (IOException e) {
-			System.out.println("Exception " + e.toString());
+			Log.d("", "writetoFile "+e.toString());
+			System.out.println("Exception writetoFile" + e.toString());
 		}
 
 	}

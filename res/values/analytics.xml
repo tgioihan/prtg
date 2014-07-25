@@ -2,8 +2,8 @@
 <resources xmlns:tools="https://schemas.android.com/tools" tools:ignore="TypographyDashes">
 
     <!-- Replace placeholder ID with your tracking ID -->
-    <string name="ga_trackingId">UA-49271175-1</string>
-    <string name="ga_appName">thichngamgaixinh</string>
+    <string name="ga_trackingId">UA-53217345-1</string>
+    <string name="ga_appName">Prettygirl2014</string>
     <!-- <string name="ga_trackingId">UA-37192711-1</string> -->
 	<item format="integer" name="ga_dispatchPeriod" type="integer">30</item>
     <!-- Enable Activity tracking -->

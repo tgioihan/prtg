@@ -5,11 +5,11 @@
     android:layout_height="match_parent"
     android:background="@android:color/black" >
 
-    <com.bestfunforever.thichngamgaixinhvn.HackyViewPager
+    <com.bestfunforever.prettygirl.HackyViewPager
         android:id="@+id/view_pager"
         android:layout_width="match_parent"
         android:layout_height="match_parent" >
-    </com.bestfunforever.thichngamgaixinhvn.HackyViewPager>
+    </com.bestfunforever.prettygirl.HackyViewPager>
 
     <TextView
         android:id="@+id/title"

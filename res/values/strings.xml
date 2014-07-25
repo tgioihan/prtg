@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="admobkey">a1532d278f04383</string>
+    <string name="admobkey">ca-app-pub-2714906120093430/5501655702</string>
     <string name="mobilecorekey">5WVQKOJQJ1O5Z8CNGMXOR2MPUWE1E</string>
     <string name="app_id">206328546243721</string>
     <string name="backclick">Click back again to quit!</string>
@@ -36,9 +36,10 @@
     <string-array name="pages">
         <item>Hội Thích Ngắm Con Gái Xinh </item>
         <item>Gái 16+</item>
-        <item>Lily Luta</item>
+        <item>Kiều Max DJ</item>
         <item>Midu</item>
         <item>Tâm Tít</item>
+        <item>Chi Pu</item>
         <item></item>
     </string-array>
 
